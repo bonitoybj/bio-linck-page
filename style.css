@@ -6,3 +6,16 @@
     @apply w-full p-3 text-gray-500 transition-all duration-300 rounded-sm bg-gray-50 hover:bg-gray-300
 }
 
+.h1{
+    @apply text-3xl font-thin text-center
+}
+
+.h2{
+    @apply text-xl text-center uppercase font-extralight
+}
+
+.iconos{
+    @apply text-gray-50 hover:bg-gray-500 transition-all duration-300 rounded-sm
+    
+}
+
